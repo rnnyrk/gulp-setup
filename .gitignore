@@ -43,6 +43,7 @@ deploy
 # Build directory
 build
 dist
+src
 
 # ESlint
 .eslintrc
